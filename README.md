@@ -1,6 +1,6 @@
 # nvim-vscode
 
-## Introduction
+## Introduction 
 
 This is my Neovim configuration for use with [vscode-neovim](https://github.com/vscode-neovim/vscode-neovim/) VSCode extension. It is based on [kickstart-modular.nvim](https://github.com/dam9000/kickstart-modular.nvim).
 
